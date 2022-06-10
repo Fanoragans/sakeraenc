@@ -1,3 +1,4 @@
+#apa liat liat mau recode ya izin dulu
 #Compiled By Fanora Gans
 #https://github.com/Fanoragans
 import marshal
